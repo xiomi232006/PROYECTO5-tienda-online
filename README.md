@@ -1,4 +1,5 @@
 # PROYECTO5-tienda-online
+
 a)DEFINICION DEL PRUDUCTO:
 
 I. OBJETIVOS DEL PROYECTO:
@@ -15,7 +16,7 @@ II.PROBLEMAS IDENTIFICADOS EN LA INVESTIGACION (del cliente y del usuario):
 
 3.Caracteristicas del producto no especificadas.
 
-III. Definición del público objetivo:
+III.DEFINICION DEL PUBLICO OBJETIVO:
 
 Nuestro publico objectivo esta principalmente enfocado en adolescentes y jovenes del sexo femenino de 15 años a más.
 
