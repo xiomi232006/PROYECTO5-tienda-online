@@ -16,10 +16,39 @@ Nuestro publico objectivo esta principalmente enfocado en adolescentes y jovenes
 IV:Definición de la solución/producto:
 De acuerdo a nuestras investigaciones en lo que los usarios necesitan o que les digusta hemos creado nuestra tienda online "XIGE BEAUTY" esta tienda online se centra en la venta de productos para el cuidado personal,belleza ,skin care y cuidado del rostro.Esta tienda mostrara productos de acuerdo ala necesidad del clinete que estaran distribuidos por categorias.
 
+CATEGORIAS:
+Productos
+Gestión de productos, precios, etc
+Vista de productos destacados, por categoría y búsqueda
+Vista individual de un producto
+Clientes
+Registro de clientes
+Visualización de compras
+Compras
+Agregar productos al carrito de compras
+Procesamiento del carrito de compras
+Modulo de ventas
+Categorías
+Gestión de categorías
+Organización de productos por categorías
+Slider de imagenes
+Correo del administrador para notificaciones
+Tipo de moneda, simbolo de moneda
+Impuesto, valor del impuesto en porcentaje
+Metodos de pago: Deposito bancario, pago contra entrega
+Usuarios
+Controla los usuarios que tendrán acceso al sistema de administración
+Mucho mas
+
+
 V.Link a prototipo: figma, canvas o de la herramienta que utilizaron:
 https://www.canva.com/design/DAE4_Ix7Em4/FxUvirMJchZY4gUxjFi_Ew/view?utm_content=DAE4_Ix7Em4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 VI.Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto:
+
+
+VII.Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final:
+
 
 
 
