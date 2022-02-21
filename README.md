@@ -25,26 +25,41 @@ De acuerdo a nuestras investigaciones en lo que los usarios necesitan o que les 
 *CARACTERISTICAS:
 .Productos
 Gestión de productos, precios, etc
+
 Vista de productos destacados, por categoría y búsqueda
+
 Vista individual de un producto
+
 Clientes
-Mi cuenta:Pedidos,escritorio,descargas,direccion.detalles de la cuenta y salir.
-Registro de clientes
+
+Mi cuenta:Pedidos,escritorio,descargas,direccion.detalles de la cuenta y salir
+
 Visualización de compras
+
 Compras
 Agregar productos al carrito de compras
+
 Procesamiento del carrito de compras
-Modulo de ventas
+
 Categorías
+
 Gestión de categorías
+
 Organización de productos por categorías
+
 Slider de imagenes
+
 Correo del administrador para notificaciones
+
 Tipo de moneda, simbolo de moneda
+
 Impuesto, valor del impuesto en porcentaje
+
 Metodos de pago: Deposito bancario, pago contra entrega
+
 Usuarios
-Controla los usuarios que tendrán acceso al sistema de administración
+
+Controla los usuarios que tendrán acceso al sistema de administración,
 Mucho mas
 
 
