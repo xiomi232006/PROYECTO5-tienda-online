@@ -52,7 +52,8 @@ V.Link a prototipo: figma, canvas o de la herramienta que utilizaron:
 https://www.canva.com/design/DAE4_Ix7Em4/FxUvirMJchZY4gUxjFi_Ew/view?utm_content=DAE4_Ix7Em4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 VI.Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto:
-
+Los contenidos de nuestra tienda online tienen como finalidad de que el usuario pueda tener una mejor navegacion en nuestra tienda, ademas de brindarles un envio con descuento, facilidad de pago, alta calidad y super ofertas podra buscar sus productos por categoria y de los  mejores productos de belleza.
+Cada producto que encuentres aquí fue elaborado y seleccionado cuidadosamente. Queremos brindarte productos totalmente confiables, trabajando directamente desde Corea con nuestros especialistas, laboratorios y personas que tienen la misma pasión.
 
 VII.Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final:
 
