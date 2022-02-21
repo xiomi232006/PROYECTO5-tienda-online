@@ -8,8 +8,11 @@ El objetivo principal de nuestro proyecto es realizar la creacion de una tienda 
 II.Problemas identificados en la investigación (del cliente y del usuario):
 
 *Problemas que encontramos en las personas al visitar una tienda online:
+
 1.Disgusto por la calidad del producto.
+
 2.El precio es muy elevado.
+
 3.Caracteristicas del producto no especificadas.
 
 III.Definición del público objetivo:
@@ -23,6 +26,7 @@ De acuerdo a nuestras investigaciones en lo que los usarios necesitan o que les 
 
 
 *CARACTERISTICAS:
+
 .Productos
 Gestión de productos, precios, etc
 
@@ -66,11 +70,15 @@ Mucho mas
 V.Link a prototipo: figma, canvas o de la herramienta que utilizaron:
 
 *TESTEO DE LA TIENDA /CANVA:
+
 https://www.canva.com/design/DAE4_Ix7Em4/FxUvirMJchZY4gUxjFi_Ew/view?utm_content=DAE4_Ix7Em4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 *PRESENTACION DE PROTOTIPO /CANVA:
+
 https://www.canva.com/design/DAE5BUid3Hg/OS0LDibHGA9rEJ3ymlGVdA/view?utm_content=DAE5BUid3Hg&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel
 
 VI.Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto:
+
 Los contenidos de nuestra tienda online tienen como finalidad de que el usuario pueda tener una mejor navegacion en nuestra tienda, ademas de brindarles un envio con descuento, facilidad de pago, alta calidad y super ofertas podra buscar sus productos por categoria y de los  mejores productos de belleza.
 Cada producto que encuentres aquí fue elaborado y seleccionado cuidadosamente. Queremos brindarte productos totalmente confiables, trabajando directamente desde Corea con nuestros especialistas, laboratorios y personas que tienen la misma pasión.
 
