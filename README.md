@@ -86,8 +86,20 @@ Cada producto que encuentres aquí fue elaborado y seleccionado cuidadosamente. 
 VII. EXPLICACION DE COMO LOS CONTENIDOS Y FUNCIONALIDADES RESUELVEN CADA UNA DE LAS NECESIDADES DEL USUARIO FINAL:
 
 
-IX. Link de carpetas del google Drive con la Evidencias del trabajo:
+VII. LINK DEL VIDEO DE LOOM:
+
+
+IX. LINK DE CARPETAS DEL GOOGLE DRIVE CON LAS EVIDENCIAS DEL TRABAJO:
 https://drive.google.com/drive/folders/1_WkdM8MDRRXDa0weVPKeNI5WCn5IraKe?usp=sharing
+
+X. LINK DEL PROYECTO PUBLICO PARA SER REALIZADO:
+
+
+XI. LINK DE MEDIUM:
+https://medium.com/@charitosanchezportal/medio-de-proyecto-5-b5e1204f13c2
+
+XII. IMPORTANTE:
+
 
 
 
