@@ -90,15 +90,30 @@ VII. LINK DEL VIDEO DE LOOM:
 
 
 IX. LINK DE CARPETAS DEL GOOGLE DRIVE CON LAS EVIDENCIAS DEL TRABAJO:
+
 https://drive.google.com/drive/folders/1_WkdM8MDRRXDa0weVPKeNI5WCn5IraKe?usp=sharing
 
 X. LINK DEL PROYECTO PUBLICO PARA SER REALIZADO:
 
 
 XI. LINK DE MEDIUM:
+
 https://medium.com/@charitosanchezportal/medio-de-proyecto-5-b5e1204f13c2
 
-XII. IMPORTANTE:
+XII. PLATAFORMAS UTILIZADAS:
+
+ *Wordpress: la crecion de la tienda online.
+ 
+ *Plugin-Elemetor: El diseño de la paguina wb.
+ 
+ *Medium: la crecion del post de Informacion
+ 
+ *Canva: Testeo y diapositivas de persentacion del Preoyecto.
+ 
+ *Woocomerce :permite la creación de tiendas virtuales de código abierto. 
+ 
+ *Form Google: Testeo del Usuario.
+
 
 
 
