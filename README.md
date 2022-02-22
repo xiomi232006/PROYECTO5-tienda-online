@@ -89,7 +89,7 @@ VII. EXPLICACION DE COMO LOS CONTENIDOS Y FUNCIONALIDADES RESUELVEN CADA UNA DE 
 
 2.Calidad de los productos:Nuestros productos en Xige Beauty estan detalladamente escogidos con una buena calidad para el cuidado de la piel de nuestros usuarios. 
 
-3.
+3.Distribución de categorias:Nuestro menu esta organizado con categorias mucho mas entendibles y detallados.
 
 VII. LINK DEL VIDEO DE LOOM:
 
