@@ -115,6 +115,8 @@ XII. PLATAFORMAS UTILIZADAS:
  *Woocomerce :permite la creación de tiendas virtuales de código abierto. 
  
  *Form Google: Testeo del Usuario.
+ 
+ *CDMON:Para el hosting de la tienda.
 
 
 
