@@ -68,7 +68,13 @@ Controla los usuarios que tendrán acceso al sistema de administración,
 Mucho mas
 
 
-V. LINK A PROTOTIPO: figma, canvas o de la herramienta que utilizaron:
+V. LINK A PROTOTIPO: figma, canvas o de la herramienta que utilizados:
+
+*HIPOTESIS DE NUESTRO PROYECTO:
+
+https://docs.google.com/drawings/d/1cLZXgO-DxiyARR1fvut8cDN8DhmmrupORRNXhbeQHAM/edit?usp=sharing
+
+     
 
 *TESTEO DE LA TIENDA /CANVA:
 
