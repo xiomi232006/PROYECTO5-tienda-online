@@ -28,25 +28,32 @@ De acuerdo a nuestras investigaciones en lo que los usarios necesitan o que les 
 
 *CARACTERISTICAS:
 
-.Productos
+*.Productos
+
+
 Gestión de productos, precios, etc
 
 Vista de productos destacados, por categoría y búsqueda
 
 Vista individual de un producto
 
-Clientes
 
-Mi cuenta:Pedidos,escritorio,descargas,direccion.detalles de la cuenta y salir
 
-Visualización de compras
+*Clientes
+
+Mi cuenta:
+Pedidos,escritorio,descargas,direccion.detalles de la cuenta y salir
+
+*Visualización de compras
+
 
 Compras
 Agregar productos al carrito de compras
 
 Procesamiento del carrito de compras
 
-Categorías
+*Categorías
+
 
 Gestión de categorías
 
@@ -62,7 +69,8 @@ Impuesto, valor del impuesto en porcentaje
 
 Metodos de pago: Deposito bancario, pago contra entrega
 
-Usuarios
+*Usuarios
+
 
 Controla los usuarios que tendrán acceso al sistema de administración,
 Mucho mas
