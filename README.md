@@ -38,11 +38,11 @@ Vista de productos destacados, por categoría y búsqueda
 Vista individual de un producto
 
 
+*Mi cuenta:
 
-*Clientes
 
-Mi cuenta:
-Pedidos,escritorio,descargas,direccion.detalles de la cuenta y salir
+Pedidos,escritorio,descargas,direccion.detalles de la cuenta y salir.
+
 
 *Visualización de compras
 
