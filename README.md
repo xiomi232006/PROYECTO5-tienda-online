@@ -22,7 +22,7 @@ Nuestro publico objectivo esta principalmente enfocado en adolescentes y jovenes
 
 IV: DEFINICION DE LA SOLUCION/PRODUCTO:
 
-De acuerdo a nuestras investigaciones en lo que los usarios necesitan o que les digusta hemos creado nuestra tienda online "XIGE BEAUTY" esta tienda online se centra en la venta de productos para el cuidado personal,belleza ,skin care y cuidado del rostro.Esta tienda mostrara productos de acuerdo ala necesidad del clinete que estaran distribuidos por categorias.
+De acuerdo a nuestras investigaciones en lo que los usarios necesitan o que les digusta hemos creado nuestra tienda online "XIGE BEAUTY" esta tienda online se centra en la venta de productos para el cuidado personal, belleza ,skin care y cuidado del rostro. Esta tienda mostrara productos de acuerdo a la necesidad del cliente que estaran distribuidos por categorias.
 
 
 
