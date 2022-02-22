@@ -86,6 +86,8 @@ Cada producto que encuentres aquí fue elaborado y seleccionado cuidadosamente. 
 VII. EXPLICACION DE COMO LOS CONTENIDOS Y FUNCIONALIDADES RESUELVEN CADA UNA DE LAS NECESIDADES DEL USUARIO FINAL:
 
 
+
+
 VII. LINK DEL VIDEO DE LOOM:
 
 
