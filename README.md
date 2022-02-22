@@ -97,6 +97,7 @@ https://drive.google.com/drive/folders/1_WkdM8MDRRXDa0weVPKeNI5WCn5IraKe?usp=sha
 
 X. LINK DEL PROYECTO PUBLICO PARA SER REALIZADO:
 
+http://www.xige-pruebas.com.mialias.net/
 
 XI. LINK DE MEDIUM:
 
