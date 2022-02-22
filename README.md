@@ -85,8 +85,11 @@ Cada producto que encuentres aquí fue elaborado y seleccionado cuidadosamente. 
 
 VII. EXPLICACION DE COMO LOS CONTENIDOS Y FUNCIONALIDADES RESUELVEN CADA UNA DE LAS NECESIDADES DEL USUARIO FINAL:
 
+1.El problema de una interfaz desorganizada:Nuestra plataforma esta basada en un diseño de interfaz entendible para el usuario.
 
+2.Calidad de los productos:Nuestros productos en Xige Beauty estan detalladamente escogidos con una buena calidad para el cuidado de la piel de nuestros usuarios. 
 
+3.
 
 VII. LINK DEL VIDEO DE LOOM:
 
@@ -98,6 +101,8 @@ https://drive.google.com/drive/folders/1_WkdM8MDRRXDa0weVPKeNI5WCn5IraKe?usp=sha
 X. LINK DEL PROYECTO PUBLICO PARA SER REALIZADO:
 
 http://www.xige-pruebas.com.mialias.net/
+*usuario:xige1p909
+*contraseña:EsYocZLu
 
 XI. LINK DE MEDIUM:
 
