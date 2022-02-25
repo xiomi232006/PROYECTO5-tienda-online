@@ -138,6 +138,13 @@ XII. PLATAFORMAS UTILIZADAS:
  *Form Google: Testeo del Usuario.
  
  *CDMON:Para el hosting de la tienda.
+ 
+ 
+ *INTEGRANTES:
+ 
+ -Jerlin Xiomara Paredes Sanchez /correo:paredesxiomara816@gmail.com
+ 
+  -Jerlin Geraldine Paredes Sanchez / correo:jparedes@estudiantes.crackthecode.la
 
 
 
